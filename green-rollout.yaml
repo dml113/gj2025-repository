@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: green-app
-          image: 950274644703.dkr.ecr.ap-northeast-2.amazonaws.com/green:v1.0.0
+          image: 950274644703.dkr.ecr.ap-northeast-2.amazonaws.com/green:2025-09-20.21.53.48
           ports:
             - containerPort: 8080
           env:
